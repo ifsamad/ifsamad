@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on Frontend Project
 - 📫 How to reach me  samadabdul8726@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Always ready to accept the challenges
 - ⚡ Fun fact: ...
 
 <!---
